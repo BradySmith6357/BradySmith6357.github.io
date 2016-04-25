@@ -1,0 +1,66 @@
+#section3 {
+	background-image: none;
+}
+
+#section4 {
+	background-image: url(https://images.unsplash.com/photo-1441716844725-09cedc13a4e7);
+    background-size: 200%;
+    background-attachment: fixed;
+    background-position: 84% -54%;
+}
+
+.aboutme-body {
+	display: inline-block;
+	font-size: 18px;
+}
+
+.skills-header {
+	width: 100%;
+	display: inline-block;
+	font-size: 15px;
+	border-bottom: solid;
+	border-color: #038ACC;
+	border-bottom-width: 2px;
+	text-align: left;
+	margin-bottom: 0px;
+	margin-top: 0px
+}
+
+.portfolio-padding {
+	margin-bottom: 10px;
+	height: 250px;
+/*	width: 300px;*/
+}
+
+.portfolio-img {
+	background-color: #ECF0F1;
+	padding-top: 40px;
+	height: 50%;
+}
+
+.center-btn2 {
+	position: relative;
+	top: -30px;
+}
+
+.scrn-fit {
+	position: relative;
+	height: 132px;
+    width: 275px;
+    bottom: 267px;
+}
+
+.mac-img {
+	margin-top: 20px;
+	height: 200px;
+	width: 300px;
+}
+
+.spin-location {
+	position: relative;
+    bottom: 220px;
+}
+
+.social-icons i {
+	padding: 15px 50px 100px 50px;
+}

@@ -1,0 +1,20 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradySmith6357/Personal-Site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BradySmith6357/Personal-Site/issues"
+  },
+  "homepage": "https://github.com/BradySmith6357/Personal-Site#readme"
+}
