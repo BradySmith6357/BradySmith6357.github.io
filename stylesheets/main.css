@@ -1,3 +1,8 @@
+html, body {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+
 #section1 {
 	background-image: url(https://images.unsplash.com/photo-1448546120959-a4b0e3dd910d);
 	background-size: cover;
@@ -19,6 +24,7 @@
 }
 
 .header {
+	z-index: -1;
 	display:inline;
 	position: relative;
 	text-align: center;
@@ -59,11 +65,11 @@
 	top: 150px;
 }
 
-.center-btn3 {
+/*.center-btn3 {
 	position: relative;
     top: 50px;
     left: 470px;
-}
+}*/
 
 .contact-icon1 {
 	position: absolute;
