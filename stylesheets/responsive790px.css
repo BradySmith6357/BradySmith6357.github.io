@@ -1,3 +1,74 @@
 .sub-head {
 	color: white;
 }
+
+.aboutme-header {
+	margin-bottom: 5px;
+}
+
+.aboutme-body {
+	display: inline-block;
+	font-size: 18px;
+	height:324px;
+	width: 100%;
+	overflow: auto;
+	padding: 5px 0px 2px 0px;
+	margin: 0px;
+	border: solid;
+	border-color: #038ACC;
+	border-width: 2px;
+	margin-bottom: 0px;
+	background-color: #C8CDCE;
+}
+
+.skills-header {
+	border-bottom-width: 1px
+}
+
+.best {
+	font-size: 10px;
+	background-color: #7CD4FF;
+	margin-top:2px;
+	margin-bottom: 2px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+	width: 95%;
+	height: 20px;
+}
+
+.better {
+	font-size: 10px;
+	background-color: #7CD4FF;
+	margin-top:2px;
+	margin-bottom: 2px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+	width: 80%;
+	height: 20px;
+}
+
+.good {
+	font-size: 10px;
+	background-color: #7CD4FF;
+	margin-top:2px;
+	margin-bottom: 2px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+	width: 70%;
+	height: 20px;
+}
+
+.ok {
+	font-size: 10px;
+	background-color: #7CD4FF;
+	margin-top:2px;
+	margin-bottom: 2px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;	
+	width: 60%;
+	height: 20px;
+}
+
+.social-icons i {
+	    padding: 0px 10px 0px 10px;
+}
