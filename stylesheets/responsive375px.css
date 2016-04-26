@@ -1,0 +1,16 @@
+.header {
+    z-index: -1;
+    display: inline;
+    position: relative;
+    text-align: center;
+    font-size: 75px;
+}
+
+.sub-head {
+	font-size: 29px;
+	color: black;
+}
+
+.center-btn {
+	top: 220px;
+}
