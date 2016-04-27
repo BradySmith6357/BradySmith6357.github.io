@@ -1,0 +1,94 @@
+.header {
+    z-index: -1;
+    display: inline;
+    position: relative;
+    text-align: center;
+    font-size: 75px;
+}
+
+.sub-head {
+	z-index: -1;
+	font-size: 29px;
+	color: black;
+}
+
+.center-btn {
+	top: 150px;
+}
+
+.contact-icon1 {
+	margin-top: 50px;
+/*	margin-bottom: 50px;*/
+}
+
+.aboutme-body {
+	display: inline-block;
+	font-size: 15px;
+	height:180px;
+	width: 100%;
+	overflow: auto;
+	padding: 5px 0px 2px 0px;
+	margin: 0px;
+	border: solid;
+	border-color: #038ACC;
+	border-width: 2px;
+	margin-bottom: 0px;
+	background-color: #C8CDCE;
+}
+
+.skills-list {
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+.right-align {
+	bottom: 10px;
+}
+
+.best {
+	font-size: 7px;
+	background-color: #7CD4FF;
+	margin-top:2px;
+	margin-bottom: 2px;
+	padding-bottom: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+	width: 95%;
+	height: 17px;
+}
+
+.better {
+	font-size: 7px;
+	background-color: #7CD4FF;
+	margin-top:2px;
+	margin-bottom: 2px;
+	padding-bottom: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+	width: 80%;
+	height: 17px;
+}
+
+.good {
+	font-size: 7px;
+	background-color: #7CD4FF;
+	margin-top:2px;
+	margin-bottom: 2px;
+	padding-bottom: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+	width: 70%;
+	height: 17px;
+}
+
+.ok {
+	font-size: 7px;
+	background-color: #7CD4FF;
+	margin-top:2px;
+	margin-bottom: 2px;
+	padding-bottom: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;	
+	width: 60%;
+	height: 17px;
+}
