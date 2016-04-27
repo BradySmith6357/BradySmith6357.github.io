@@ -21,6 +21,11 @@
 /*	margin-bottom: 50px;*/
 }
 
+.aboutme-header {
+	padding-top: 11px;
+    height: 80px;
+}
+
 .aboutme-body {
 	display: inline-block;
 	font-size: 15px;
@@ -91,4 +96,20 @@
 	border-bottom-left-radius: 3px;	
 	width: 60%;
 	height: 17px;
+}
+
+.center-btn3 {
+	top: 10px;
+}
+
+.portfolio-header {
+	padding-top: 11px;
+    height: 80px;
+    margin-top: -14px;
+}
+
+.contact-header {
+	padding-top: 11px;
+    height: 80px;
+    margin-top: -14px;
 }
