@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/BradySmith6357/Personal-Site#readme",
   "dependencies": {
-    "nodemailer": "^2.4.1"
+    "nodemailer": "^2.4.1",
+    "xoauth2": "^1.1.0"
   }
 }
