@@ -4,7 +4,7 @@ html, body {
 }
 
 #section1 {
-	background-image: url(https://images.unsplash.com/photo-1448546120959-a4b0e3dd910d);
+	background-image: url(/pics/landingPhoto.jpg);
 	background-size: cover;
 	position: relative;
 	z-index: 2;
@@ -18,10 +18,10 @@ html, body {
 }
 
 #section4 {
-	background-image: url(https://images.unsplash.com/photo-1441716844725-09cedc13a4e7);
-	background-size: 125%;
-	background-attachment: fixed;
-	background-position: 100% -32%;
+	background-image: url(/pics/btmPhoto.jpg);
+    background-size: 180%;
+    background-attachment: fixed;
+    background-position: 73% -250%;
 }
 
 .header {
@@ -66,11 +66,43 @@ html, body {
 	top: 150px;
 }
 
-/*.center-btn3 {
+.circle-btn {
+	background-color: white;
+    border-radius: 100px;
+    width: 79px;
+    border-style: solid;
+    position: absolute;
+    left: 320px;
+}
+
+.circle-btn p {
+	color: #4C4D52;
+	font-family: Papyrus;
+}
+
+.circle-btn:hover {
+	background-color: #FF9F00;
+	color: black;
+	font-family: Papyrus;
+}
+
+/*.circle-btn p:hover {
+	color: white;
+}*/
+
+.btn-line {
+    border-top-style: solid;
+    border-color: black;
+    width: 350px;
+    position: relative;
+	top: 40px;
+    left: 175px;
+}
+
+.center-btn3 {
 	position: relative;
     top: 50px;
-    left: 470px;
-}*/
+}
 
 .contact-icon1 {
 	position: absolute;
@@ -209,10 +241,6 @@ span {
 
 .portfolio-padding {
 	margin: auto;
-}
-
-.resume-img img{
-    box-shadow: 10px 10px 5px #888888;
 }
 
 .scrn-fit {

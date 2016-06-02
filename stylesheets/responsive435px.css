@@ -23,7 +23,8 @@
 
 .aboutme-header {
 	padding-top: 11px;
-    height: 80px;
+    height: 65px;
+    font-size: 45px;
 }
 
 .aboutme-body {
@@ -104,12 +105,14 @@
 
 .portfolio-header {
 	padding-top: 11px;
-    height: 80px;
+    height: 65px;
+    font-size: 45px;
     margin-top: -14px;
 }
 
 .contact-header {
 	padding-top: 11px;
-    height: 80px;
+    height: 65px;
+    font-size: 45px;
     margin-top: -14px;
 }

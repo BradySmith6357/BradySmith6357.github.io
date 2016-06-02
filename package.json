@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BradySmith6357/Personal-Site/issues"
   },
-  "homepage": "https://github.com/BradySmith6357/Personal-Site#readme"
+  "homepage": "https://github.com/BradySmith6357/Personal-Site#readme",
+  "dependencies": {
+    "nodemailer": "^2.4.1"
+  }
 }
