@@ -34,6 +34,8 @@ app.post('/api/send', function(req, res){
 	console.log(req.body)
 	var transporter = nodemailer.createTransport(({
     service: 'gmail',
+    port: 465,
+  	secure: true,
     auth: {
         xoauth2: generator
     }
