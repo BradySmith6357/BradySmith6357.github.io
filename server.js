@@ -54,7 +54,7 @@ app.get('/', function(req, res){
 
 // ***** NODEMAILER *****
 
-app.get('/api/send', function(req, res){
+app.get('api/send', function(req, res){
 	console.log(req.body)
 	var transporter = nodemailer.createTransport({
 		service: 'Gmail',
