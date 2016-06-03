@@ -4,7 +4,7 @@ angular.module('mainApp')
 
 		$scope.sendEmail = function(){
 			console.log($scope.email)
-			$http.post('api/send', $scope.email)
+			$http.post('/send', $scope.email)
 				.then(function(returnData){
 					console.log(returnData)
 					if(returnData.status !== 200) {
