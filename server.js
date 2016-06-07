@@ -60,7 +60,7 @@ app.post('/api/send', function(req, res){
 	});
 });
 
-var port = 80
+var port = 3000
 app.listen(port, function(){
 	console.log("Running on port:", port)
 })
