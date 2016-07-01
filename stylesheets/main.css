@@ -4,7 +4,7 @@ html, body {
 }
 
 #section1 {
-	background-image: url(/pics/landingPhoto.jpg);
+	background-image: url(/pics/landingPhoto.png);
 	background-size: cover;
 	position: relative;
 	z-index: 2;
@@ -18,8 +18,8 @@ html, body {
 }
 
 #section4 {
-	background-image: url(/pics/btmPhoto.jpg);
-    background-size: 180%;
+	background-image: url(/pics/btmPhoto.png);
+    background-size: 120%;
     background-attachment: fixed;
     background-position: 73% -250%;
 }

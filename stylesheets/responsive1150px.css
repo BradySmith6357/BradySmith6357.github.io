@@ -3,10 +3,9 @@
 }
 
 #section4 {
-	background-image: url(https://images.unsplash.com/photo-1441716844725-09cedc13a4e7);
-    background-size: 200%;
+    background-size: 110%;
     background-attachment: fixed;
-    background-position: 84% -54%;
+    background-position: 0% 0%;
 }
 
 .aboutme-body {
