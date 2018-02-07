@@ -5,15 +5,6 @@ var logger = require('morgan');
 var nodemailer = require('nodemailer');
 var app = express();
 
-var generator = require('xoauth2').createXOAuth2Generator({
-    user: 'bsmit6357@gmail.com',
-    clientId: '855490167743-t3hum7ki3108tnuoqgrg2l81tk2ouire.apps.googleusercontent.com',
-    clientSecret: 'CSji2-61GjcKTazvIIcBmB95',
-    refreshToken: '1/Pd9ESLMe2APu6OfAlrE4uQj1Q0AjfQoOE2es3C-Dz7U',
-});
-
-
-
 app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
